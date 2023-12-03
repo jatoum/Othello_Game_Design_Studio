@@ -19,6 +19,7 @@ cd [repository directory/myminiproject]
 2. Install dependencies
 ```
 npm install
+npm isntall webgme
 ```
 3. Download/Install Docker Desktop from this link.
 4. Download/Install the latest version of mongo in Docker Image.
@@ -40,6 +41,7 @@ node app.js
 
 ### Structure
 ** src/: Home to the studio's source code.
+
 ** plugins/: Game logic plugins (Highlight valid tiles, Counting pieces, Flipping, Undo).
 ** visualizers/: Components for Othello game visualization.
 ** meta/: Meta-model defining the game.
