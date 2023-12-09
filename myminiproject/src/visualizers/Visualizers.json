@@ -1,8 +1,0 @@
-[
-    {
-        "id": "OthelloViz",
-        "title": "OthelloViz",
-        "panel": "panels/Othello/OthelloVizPanel",
-        "DEBUG_ONLY": false
-    }
-]

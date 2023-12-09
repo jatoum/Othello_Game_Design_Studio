@@ -1,0 +1,45 @@
+{
+  "components": {
+    "seeds": {
+      "Othello_seed": {
+        "src": "src/seeds/Othello_seed"
+      }
+    },
+    "plugins": {
+      "flipping": {
+        "src": "src/plugins/flipping",
+        "test": "test/plugins/flipping"
+      },
+      "undo": {
+        "src": "src/plugins/undo",
+        "test": "test/plugins/undo"
+      },
+      "counting_pieces": {
+        "src": "src/plugins/counting_pieces",
+        "test": "test/plugins/counting_pieces"
+      },
+      "highlight": {
+        "src": "src/plugins/highlight",
+        "test": "test/plugins/highlight"
+      },
+      "auto": {
+        "src": "src/plugins/auto",
+        "test": "test/plugins/auto"
+      }
+    },
+    "visualizers": {
+      "othellovisualizer": {
+        "src": "panels/othellovisualizer/othellovisualizerPanel",
+        "title": "othellovisualizer",
+        "panel": "src/visualizers/panels/othellovisualizer",
+        "secondary": false,
+        "widget": "src/visualizers/widgets/othellovisualizer"
+      }
+    }
+  },
+  "dependencies": {
+    "seeds": {},
+    "plugins": {},
+    "visualizers": {}
+  }
+}

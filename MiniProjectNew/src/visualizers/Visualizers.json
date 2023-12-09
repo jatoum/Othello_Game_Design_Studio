@@ -1,0 +1,8 @@
+[
+  {
+    "id": "othellovisualizer",
+    "title": "othellovisualizer",
+    "panel": "panels/othellovisualizer/othellovisualizerPanel",
+    "DEBUG_ONLY": false
+  }
+]

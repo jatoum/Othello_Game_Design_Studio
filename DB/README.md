@@ -1,1 +1,0 @@
-This folder is a placeholder for the database of the design studio!
