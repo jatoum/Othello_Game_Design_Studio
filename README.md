@@ -1,5 +1,4 @@
 # Othello_Game_Design_Studio
-<<<<<<< HEAD
 CS 6388 Model-Integrated Computing final project. Note the MiniProjectNew is the one containing only plugins and needed elements for running plugins (using instructions below) in webgme. Whilethe visualization trial (as the name depicts) representes my attemps to visualize the othello game. This folder contains all node modules ad visualizer files/ packages.
 
 # MiniProjectNew
