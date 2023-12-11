@@ -95,6 +95,4 @@ Display of the final score indicates the winner.
 
 ## Deployment
 The installation instructions appended above can be used to deploy the Othello Game Studio on your local machine.
-=======
 Navigate to MiniProject to view the full project and README. file.
->>>>>>> 2f488421df3aa4a830beb976e617401a1d2ff6f4
