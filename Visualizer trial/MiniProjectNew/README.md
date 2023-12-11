@@ -1,6 +1,5 @@
 # Othello_Game_Design_Studio
-<<<<<<< HEAD
-CS 6388 Model-Integrated Computing final project. Note the MiniProjectNew is the one containing only plugins and needed elements for running plugins (using instructions below) in webgme. Whilethe visualization trial (as the name depicts) representes my attemps to visualize the othello game. This folder contains all node modules ad visualizer files/ packages.
+CS 6388 Model-Integrated Computing final project. This branch contains the visualizer but nt tested since i couln't make the tictactoe nor mine to show anythng when visualizer was chosen. The main branch contains the project with no visualizer components or npm modules.
 
 # MiniProjectNew
 ## Installation
@@ -18,7 +17,7 @@ Discover the Othello Game Studio, an extensive design platform crafted for both 
 ## Installation Instructions
 
 ### Prerequisites
-1. EnsurePython3 (version 3.11.0 or higher, if applicable)
+1. Ensure Python3/Python (version 3.11.0 or higher, if applicable)
 2. Ensure Node.js (version 20.9.0 LTS or higher)
 
 ### Steps 
@@ -32,7 +31,6 @@ cd [repository directory/myminiproject]
 npm install
 npm install webgme
 npm install webgme-bindings
-pip3 install webgme-bindings
 ```
 3. Download/Install Docker Desktop from this link.
 4. Download/Install the latest version of mongo in Docker Image.
@@ -96,6 +94,3 @@ Display of the final score indicates the winner.
 
 ## Deployment
 The installation instructions appended above can be used to deploy the Othello Game Studio on your local machine.
-=======
-Navigate to MiniProject to view the full project and README. file.
->>>>>>> 2f488421df3aa4a830beb976e617401a1d2ff6f4
